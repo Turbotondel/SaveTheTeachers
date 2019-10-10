@@ -1,14 +1,8 @@
 fileFormatVersion: 2
-<<<<<<< HEAD:SaveTheTeachers/Assets/Bookassets.meta
-guid: d36730cf39442d24fb3ca4256ce6d59a
-folderAsset: yes
-DefaultImporter:
-=======
-guid: 9ea9d09798cd66b43bbcf04e6c2fea68
+guid: 2b05ed377c44fc14f8617d09a69eb68f
 NativeFormatImporter:
->>>>>>> 0dc520237a0f65b49c2fcd184e41f19cc4401fde:SaveTheTeachers/Assets/Scenes/SaveTheTeachers/NavMesh-Level.asset.meta
   externalObjects: {}
-  mainObjectFileID: 23800000
+  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
