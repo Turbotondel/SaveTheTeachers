@@ -8,4 +8,5 @@ public class PlayerData : ScriptableObject
     public List<GameObject> inventory = new List<GameObject>();
     public bool fusionAchieved;
     public bool jeffRescued;
+    public bool frankRescued;
 }
